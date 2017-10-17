@@ -67,5 +67,4 @@ public class StudentDB {
 		return "name:" + name + " ssn:" + ssn + " email:" + email + " userID:" + userID + " phone:" + phone + " city:" + city + " state:" + state;
 	}
 	
-	
 }
